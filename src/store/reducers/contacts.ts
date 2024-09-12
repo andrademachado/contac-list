@@ -17,37 +17,37 @@ const initialState: ContatosState = {
     },
     {
       grupos: enums.Grupos.FAMILY,
-      titulo: 'João',
-      telefone: '11-99999-9999',
-      email: 'joaoc@gmail.com',
+      titulo: 'Pai',
+      telefone: '(74)9191-9191',
+      email: 'pai@gmail.com',
       id: 2
     },
     {
       grupos: enums.Grupos.GUYS,
-      titulo: 'Maria',
-      telefone: '11-99999-9999',
-      email: 'vidac@gmail.com',
+      titulo: 'colega',
+      telefone: '(74)9191-9191',
+      email: 'colega@gmail.com',
       id: 3
     },
     {
       grupos: enums.Grupos.FAMILY,
-      titulo: 'Everton',
-      telefone: '11-99999-9999',
-      email: 'eventon@gmail.com',
+      titulo: 'Marido',
+      telefone: '(74)9191-9191',
+      email: 'marido@gmail.com',
       id: 4
     },
     {
       grupos: enums.Grupos.FAMILY,
-      titulo: 'Elisa',
-      telefone: '11-99999-9999',
-      email: 'elisa@gmail.com',
+      titulo: 'Filha',
+      telefone: '(74)9191-9191',
+      email: 'filha@gmail.com',
       id: 5
     },
     {
       grupos: enums.Grupos.GUYS,
-      titulo: 'Ricardo',
-      telefone: '11-99999-9999',
-      email: 'ricardo@gmail.com',
+      titulo: 'amiga',
+      telefone: '(74)9191-9191',
+      email: 'amiga@gmail.com',
       id: 6
     }
   ]
