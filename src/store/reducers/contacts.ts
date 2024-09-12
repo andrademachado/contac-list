@@ -10,9 +10,9 @@ const initialState: ContatosState = {
   itens: [
     {
       grupos: enums.Grupos.WORK,
-      titulo: 'EBAC',
-      telefone: '11-968336094',
-      email: 'ebac@gmail.com',
+      titulo: 'Agência de Software',
+      telefone: '(74)9191-9191',
+      email: 'agencia@gmail.com',
       id: 1
     },
     {
